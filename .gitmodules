@@ -1,0 +1,3 @@
+[submodule "vit-keras"]
+	path = vit-keras
+	url = https://github.com/faustomorales/vit-keras
